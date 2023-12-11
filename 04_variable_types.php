@@ -34,7 +34,7 @@ else
 </channel>
 _XML_;
 echo <<<END
-<br>This uses the "here document" syntax to output
+<br>This usess the "here documentss" syntax to output
 multiple lines with variable interpolation. Note
 that the here document terminator must appear on a
 line with just a semicolon. no extra whitespace!
